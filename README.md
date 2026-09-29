@@ -25,7 +25,9 @@ My current skill set includes networking, ethical hacking, threat modeling, thre
 ☁️ Expanding my knowledge of cloud and modern infrastructure security
 
 
+
 🧰 Tech Stack — Tools & Technologies
+
 🌐 Networking & Network Security
 
 TCP/IP
@@ -48,10 +50,9 @@ Network Traffic Analysis
 
 Packet Analysis
 
+
+
 🐧 Operating Systems
-
-
-
 
 Linux administration
 
@@ -65,12 +66,9 @@ User and permission management
 
 Log analysis
 
+
+
 🛠️ Cybersecurity Tools
-
-
-
-
-
 
 Nmap
 
@@ -96,12 +94,9 @@ OpenVAS / Greenbone
 
 Nessus
 
+
+
 💻 Scripting & Development
-
-
-
-
-
 
 Python
 
@@ -114,6 +109,8 @@ Basic automation
 Security scripting
 
 API interaction
+
+
 
 🕵️ Threat Intelligence & Incident Response
 
@@ -135,6 +132,8 @@ Incident documentation
 
 Root-cause analysis
 
+
+
 🔎 Vulnerability Management
 
 Vulnerability scanning
@@ -152,10 +151,17 @@ Remediation recommendations
 Vulnerability reporting
 
 🎓 Certifications
-Certification	Issuing Organization	Status
-[Certification Name]	[Organization]	🟢 Completed
-[Certification Name]	[Organization]	🟡 In Progress
-[Certification Name]	[Organization]	🔵 Planned
+
+Certification	        Issuing Organization     	Status
+
+[Certification Name]	[Organization]	            🟢 Completed
+
+[Certification Name]	[Organization]	            🟡 In Progress
+
+[Certification Name]	[Organization]	            🔵 Planned
+
+
+
 Currently Learning
 
 CompTIA Security+
@@ -164,9 +170,10 @@ CompTIA Security+
 
 [Certification / Course]
 
-Replace the certifications above with certifications you have actually earned or are currently pursuing.
+
 
 🚀 Featured Projects
+
 🔍 Network Traffic Analysis Lab
 
 Tools: Wireshark, TCP/IP, Linux
@@ -207,6 +214,8 @@ Risk prioritization
 
 Remediation documentation
 
+
+
 ➡️ View Project
 
 🕵️ Threat Intelligence Investigation
@@ -230,6 +239,9 @@ Threat actor/TTP research
 MITRE ATT&CK mapping
 
 Intelligence reporting
+
+
+
 
 ➡️ View Project
 
@@ -255,6 +267,8 @@ Containment recommendations
 
 Incident reporting
 
+
+
 ➡️ View Project
 
 🎯 Threat Modeling Project
@@ -277,9 +291,12 @@ Risk assessment
 
 Security control recommendations
 
+
+
 ➡️ View Project
 
 📚 Frameworks & Standards
+
 🔐 Security Frameworks
 
 MITRE ATT&CK — Adversary tactics, techniques and procedures
@@ -308,6 +325,8 @@ MITRE ATT&CK
 
 Cyber Kill Chain
 
+
+
 🎯 My Goals
 
 My goal is to continuously develop as a cybersecurity professional through hands-on practice, technical research, real-world simulations, and continuous learning.
@@ -326,7 +345,7 @@ Short-Term Goals
 
  Earn relevant industry certifications
 
-Long-Term Goals
+ Long-Term Goals
 
  Become a well-rounded cybersecurity professional
 
@@ -340,20 +359,24 @@ Long-Term Goals
 
  Continue researching emerging cybersecurity threats
 
+
+
 📈 Continuous Learning
 
 I believe cybersecurity is a field of continuous learning. I use this GitHub profile to document my progress, share projects, and demonstrate practical application of cybersecurity concepts.
 
 Learn → Practice → Document → Improve → Share
 
+
+
 🤝 Let's Connect
 
 I'm always interested in connecting with other cybersecurity professionals, learners, researchers, and technology enthusiasts.
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/dave-lexxi-780111103?trk=contact-info
 
-🐙 GitHub: Your GitHub
+🐙 GitHub: hemotionshub-web
 
-📧 Email: Your Email
+📧 Email: hemotionshub@gmail.com
 
 ⭐ Thanks for visiting my profile!
